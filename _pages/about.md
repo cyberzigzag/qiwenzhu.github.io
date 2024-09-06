@@ -11,8 +11,6 @@ redirect_from:
 这是我的中文歌人简历：[Qiwen Zhu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 [Email](mailto:zhuqw1214@163.com) /  / [Wechat](../images/wechat.jpg) 
                         
-原文链接：https://blog.csdn.net/qd1813100174/article/details/128604858
-A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
