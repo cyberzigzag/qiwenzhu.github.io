@@ -11,7 +11,3 @@ redirect_from:
 ======
 这是我的中文个人简历：[Qiwen Zhu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 ======
-[Email](mailto:zhuqw1214@163.com) /  / [Wechat](../images/wechat.jpg) 
-                        
-======
-
